@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6980432b3ea99d8439cc25f95c4a42d2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WinterthurCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d021f7eb0c4c680439423e35f45df2bf, type: 3}
+  - {fileID: 12800000, guid: 8e30c5168300b6047871f1ac6e1ac5c5, type: 3}
+  - {fileID: 12800000, guid: 3c6a60e624a896c42803571bb5623543, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

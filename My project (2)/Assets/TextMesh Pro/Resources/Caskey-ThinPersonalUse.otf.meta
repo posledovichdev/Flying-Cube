@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7e6842ade0097a64e9f3a82a5a300a36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Caskey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29db208f04206254abba8b2bb5d7b672, type: 3}
+  - {fileID: 12800000, guid: 22fddd90775e5d14aafba23053d69096, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
